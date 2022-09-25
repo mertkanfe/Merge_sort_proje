@@ -7,6 +7,7 @@ Merhaba. [Patika.dev](https://www.patika.dev/tr)'in proje 2 ödevini tamamladım
 ### 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 Cevap;
+
 1.) 16	21	11	8	12	22	
 
 2.) 16	21	11	---	 8	12	22	
