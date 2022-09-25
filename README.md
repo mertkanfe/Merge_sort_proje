@@ -1,6 +1,6 @@
 # Merge Sort Projesi 
 
-Merhaba. [Patika.dev](https://www.patika.dev/tr)'in proje 2 ödevini tamamladım.
+Merhaba. [Patika.dev](https://www.patika.dev/tr)'in Veri Yapıları ve Algoritmalar dersinin proje 2 ödevini tamamladım.
 
 ## [16,21,11,8,12,22] --> Merge Sort 
 
